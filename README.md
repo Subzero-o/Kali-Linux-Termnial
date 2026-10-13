@@ -1,2 +1,4 @@
 # Kali-Linux-Termnial
 Kali Terminal is an open-source terminal emulator inspired by Kali Linux, providing a streamlined command-line experience for practicing Linux commands, scripting, networking, and cybersecurity workflows. Built for students, enthusiasts, and professionals looking to improve their Linux skills.
+KaliTerminal solves the problem of not having required equipments for practicing your pentest skills. KaliTerminal is a software built by ForceSoftware to give users a feel of the kali linux environment. Users can practice port enumeration right from their mobile phone.
+Made this to help beginners starting in Ethical Hacking to get familiar with the terminal before getting into real world exploitation and enumeration.Includes tools you will definately encounter during real world hacking like msf, nikto, gobuster, nmap and others
